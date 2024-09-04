@@ -17,4 +17,4 @@ def track_user_activity(update: Update, action: str):
     user = update.effective_user
     user_id = user.id
     username = user.username or "Unknown"
-    log_user_activity(user_id, username, action
+    log_user_activity(user_id, username, action)
