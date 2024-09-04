@@ -17,7 +17,7 @@ from user_activity_tracker import track_user_activity  # Import the tracker
 init(autoreset=True)
 
 # Telegram Bot Token
-TELEGRAM_TOKEN = ' KEYS_HERE '
+TELEGRAM_TOKEN = '7210304489:AAFJxR7vmoSN_O7KsuUssGZqkVm9PjuAoeo'
 
 # Path to keys file
 KEYS_FILE_PATH = "keys.json"
